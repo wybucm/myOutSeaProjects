@@ -17,6 +17,8 @@ blueprints, material counts, progress tracking, and PNG exports.
 
 [Read the MCGenerators guide](https://wybucm.github.io/myOutSeaProjects/projects/minecraft-circle-generator/)
 
+[Visit MCGenerators](https://mcgenerators.com/)
+
 ### Try AI Editor
 
 An online AI image editor for common tasks such as enhancing photos and
