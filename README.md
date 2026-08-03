@@ -1,3 +1,11 @@
-# myOutSeaProjects
+# OutSea Projects
 
-I am thrilled to introduce my new website, www.tryaieditor.com, an advanced AI image editor designed to transform the way you edit photos. Whether you are a professional designer or a complete beginner, our smart tools allow you to enhance quality, remove backgrounds, and get creative effortlessly. Say goodbye to complex software and let AI do the heavy lifting. Visit www.tryaieditor.com today to turn your images into stunning visuals in just a few clicks!
+Source for the OutSea Projects GitHub Pages site: a small, transparent catalog
+of independently maintained web projects and useful online tools.
+
+Published site: <https://wybucm.github.io/myOutSeaProjects/>
+
+## Featured pages
+
+- [MCGenerators: A Free Minecraft Circle Generator](https://wybucm.github.io/myOutSeaProjects/projects/minecraft-circle-generator/)
+- [Try AI Editor](https://www.tryaieditor.com/)

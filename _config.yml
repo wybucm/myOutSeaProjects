@@ -1,0 +1,18 @@
+title: OutSea Projects
+description: Independent web projects and practical online tools for creators, builders, and small teams.
+url: "https://wybucm.github.io"
+baseurl: "/myOutSeaProjects"
+author: wybucm
+theme: minima
+markdown: kramdown
+show_excerpts: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+header_pages:
+  - index.md
+
+exclude:
+  - README.md
