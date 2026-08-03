@@ -25,3 +25,12 @@ removing backgrounds.
 [Read the Try AI Editor guide]({{ '/projects/try-ai-editor/' | relative_url }})
 
 [Visit Try AI Editor](https://www.tryaieditor.com/)
+
+### The OmegaVerse Quiz
+
+An SFW, personality-inspired quiz that maps 30 situational answers to a core
+dynamic and one of 16 archetypes.
+
+[Read the OmegaVerse Quiz guide]({{ '/projects/omegaverse-quiz/' | relative_url }})
+
+[Take the OmegaVerse Quiz](https://theomegaversequiz.com/)

@@ -9,4 +9,5 @@ Published site: <https://wybucm.github.io/myOutSeaProjects/>
 
 - [MCGenerators: A Free Minecraft Circle Generator](https://wybucm.github.io/myOutSeaProjects/projects/minecraft-circle-generator/)
 - [Try AI Editor: A Free AI Image Editor](https://wybucm.github.io/myOutSeaProjects/projects/try-ai-editor/)
+- [Omegaverse Quiz: Find Your Dynamic and Archetype](https://wybucm.github.io/myOutSeaProjects/projects/omegaverse-quiz/)
 - [Try AI Editor](https://www.tryaieditor.com/)
