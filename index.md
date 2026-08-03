@@ -15,14 +15,14 @@ users.
 Plan circles, ovals, spheres, and domes with block-by-block Minecraft
 blueprints, material counts, progress tracking, and PNG exports.
 
-[Read the MCGenerators guide]({{ '/projects/minecraft-circle-generator/' | relative_url }})
+[Read the MCGenerators guide](https://wybucm.github.io/myOutSeaProjects/projects/minecraft-circle-generator/)
 
 ### Try AI Editor
 
 An online AI image editor for common tasks such as enhancing photos and
 removing backgrounds.
 
-[Read the Try AI Editor guide]({{ '/projects/try-ai-editor/' | relative_url }})
+[Read the Try AI Editor guide](https://wybucm.github.io/myOutSeaProjects/projects/try-ai-editor/)
 
 [Visit Try AI Editor](https://www.tryaieditor.com/)
 
@@ -31,6 +31,6 @@ removing backgrounds.
 An SFW, personality-inspired quiz that maps 30 situational answers to a core
 dynamic and one of 16 archetypes.
 
-[Read the OmegaVerse Quiz guide]({{ '/projects/omegaverse-quiz/' | relative_url }})
+[Read the OmegaVerse Quiz guide](https://wybucm.github.io/myOutSeaProjects/projects/omegaverse-quiz/)
 
 [Take the OmegaVerse Quiz](https://theomegaversequiz.com/)
