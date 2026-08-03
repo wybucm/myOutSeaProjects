@@ -22,4 +22,6 @@ blueprints, material counts, progress tracking, and PNG exports.
 An online AI image editor for common tasks such as enhancing photos and
 removing backgrounds.
 
+[Read the Try AI Editor guide]({{ '/projects/try-ai-editor/' | relative_url }})
+
 [Visit Try AI Editor](https://www.tryaieditor.com/)
